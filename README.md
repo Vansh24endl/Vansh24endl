@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning c++,c
 - 💞️ I’m looking to collaborate with you 
 - 📫 How to reach me 
-<!---
+<!---Through Instagram 
