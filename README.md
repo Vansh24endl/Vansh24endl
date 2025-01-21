@@ -2,4 +2,3 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning c++,c
 - 💞️ I’m looking to collaborate with you 
--![Uploading img.34.gif…]()
