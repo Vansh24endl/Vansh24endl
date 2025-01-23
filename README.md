@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vansh Dhumal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1s4v46nWuqH6tIEWqVFz4oRSsIJpZjmjig&s">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/212715a3-a76b-4593-8810-1abf616c205f)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh24endl&label=Profile%20views&color=0e75b6&style=flat" alt="vansh24endl" /> </p>
 
@@ -12,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@vansh_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@vansh_d" height="30" width="40" /></a>
+<a href="https://dev.to/@vansh_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vansh_d" height="30" width="40" /></a>
 <a href="https://instagram.com/_vansh_d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vansh_d1" height="30" width="40" /></a>
 </p>
 
