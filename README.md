@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh24endl&label=Profile%20views&color=0e75b6&style=flat" alt="vansh24endl" /> </p>
 
-- 👀 I’m interested in Web Development ,DSA.
+- 👀 I’m interested in **Web Development, DSA.**
 - 🌱 I’m currently learning **React Web Frame.**
 
 - 📫 How to reach me **vanshdhumal5@gmail.com**
