@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://dev.to/@vansh_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vansh_d" height="30" width="40" /></a>
 <a href="https://instagram.com/_vansh_d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vansh_d1" height="30" width="40" /></a>
+<a href="https://Linkedin/vansh-dhumal-a4906a287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Linkedin.svg" alt="Vansh Dhumal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
