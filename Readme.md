@@ -1,10 +1,9 @@
-<!-- 🔥 Banner -->
+<!-- Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Vansh+Dhumal;Welcome+to+my+profile!;I+am+a+Developer+%26+Tech+Enthusiast" alt="Typing Animation" />
+</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Vansh%20Dhumal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
 
-<h1 align="center">Hi 👋, I'm Vansh Dhumal</h1>
 <h3 align="center">💻 B.Tech + MBA Student | 🌐 Web Developer | ☁️ Cloud Enthusiast</h3>
 
 ---
