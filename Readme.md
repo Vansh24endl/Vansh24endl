@@ -64,8 +64,3 @@
 
 📧 **[vanshdhumal5@gmail.com](mailto:vanshdhumal5@gmail.com)**
 
----
-
-<p align="center">
-  ⚡ <i>Building, learning, and improving every day.</i>
-</p>
