@@ -54,7 +54,7 @@
 
 ### 🧩 Featured Projects
 
-- 🔍 Travel mp(https://travel-mp.netlify.app)
+- 🔍 Travel mp(https://apk-shield-iota.vercel.app)
 - 💸 Splitwise Clone
 - 🧑‍💻 Student Buddy Extension
 
