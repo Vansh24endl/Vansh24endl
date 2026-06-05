@@ -55,7 +55,7 @@
 ### 🧩 Featured Projects
 
 - 🔍 Apk-shield (https://apk-shield-iota.vercel.app)
-- 💸 TravelIndore (https://taravelindorep3.vercel.app)
+- 💸 TravelIndore (https://travelindorep3.vercel.app)
 - 🧑‍💻 Student Buddy Extension
 
 ---
