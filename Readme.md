@@ -18,7 +18,6 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 3rd Year B.Tech + MBA Student
 * 🌱 Currently learning **Web Development, Cloud & DevOps**
 * 💡 Interested in **Full Stack Projects, DSA & Cybersecurity**
 * ⚡ Fun fact: *I enjoy building real-world projects and solving problems!*
